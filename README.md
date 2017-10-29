@@ -5,4 +5,5 @@ This is kind of the first real project I ever made!
 
 Hope some people will get to enjoy it someday ;)
 
-It looks like it worked
+Important things for this project :
+- namespaces for socket io
