@@ -39,6 +39,5 @@ io.listen(server);
 io.on('connection', (socket) => {
   console.log('New player!');
 });
-io.on()
 
 server.listen(3000);
